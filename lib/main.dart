@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:ui_facebook_web_mob/config/palette.dart';
-import 'package:ui_facebook_web_mob/screens/home_screen.dart';
+import 'package:ui_facebook_web_mob/screens/screens.dart';
 
 void main() {
   runApp(const MyApp());
